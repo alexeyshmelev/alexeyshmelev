@@ -1,4 +1,6 @@
-<img src="https://github.com/alexeyshmelev/alexeyshmelev/blob/da781eb04524260b92c196d48f54cc97b6a2f750/git.svg" width="80%">
+<p align="center">
+  <img src="https://github.com/alexeyshmelev/alexeyshmelev/blob/da781eb04524260b92c196d48f54cc97b6a2f750/git.svg" width="80%">
+</p>
 - 👋 Hi, I’m @alexeyshmelev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
